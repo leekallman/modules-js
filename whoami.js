@@ -1,5 +1,5 @@
 const sayMyName = (name) => {
-    return `My name is ${name}`;
+    return 'Tapas';
 };
 
 export const sayGreeting = greet => {
